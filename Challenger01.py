@@ -79,5 +79,3 @@ def inicial():
         except ValueError:
             print('Insira um número entre 1 e 4.')
 inicial()
-
-# Salvar e Carregar Tarefas: As tarefas devem ser salvas em um arquivo texto (por exemplo, tarefas.txt) para que possam ser carregadas na próxima execução do programa.
